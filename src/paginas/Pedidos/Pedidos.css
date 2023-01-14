@@ -1,0 +1,21 @@
+.Container--Pedidos {
+    margin-left: 40px;
+}
+
+.Area--Pedidos {
+    width: 100%;
+    display: flex;
+    padding: 25px 0px;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+}
+
+.Container--Botoes {
+    align-items: flex-end;
+    display: flex;
+    gap: 20px;
+}
+
+.Container--Botoes button {
+    padding: 10px 15px !important;
+}
